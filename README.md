@@ -1,3 +1,3 @@
 #### - [throttle与debounce](https://github.com/zyl1314/blog/blob/master/public/blog/throttle%E4%B8%8Edebounce.md)
 #### - [实现一个简单的promise](https://github.com/zyl1314/blog/blob/master/public/blog/%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E7%89%88%E7%9A%84promise.md)
-#### - [流程控制之串行和并行]（https://github.com/zyl1314/blog/blob/master/public/blog/流程控制之串行和并行.md）
+#### - [流程控制之串行和并行](https://github.com/zyl1314/blog/blob/master/public/blog/%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6%E4%B9%8B%E4%B8%B2%E8%A1%8C%E5%92%8C%E5%B9%B6%E8%A1%8C.md)
