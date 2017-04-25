@@ -13,6 +13,7 @@
 ```
 #### 需要在scripts添加start，node后面跟的是入口文件
 
-## step3 : 如果需要数据库服务可以在扩展服务里面选择，用户名和密码为Access Key ID和Secret Access Key
+## step3 : 数据库服务
+#### 如果需要数据库服务可以在扩展服务里面选择，用户名和密码为Access Key ID和Secret Access Key
 
 ## step4 : push到远程即可
