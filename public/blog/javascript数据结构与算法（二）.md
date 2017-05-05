@@ -38,7 +38,7 @@ append(target) {
 
 // target（待添加的元素）结构如下
 {
-    elemnt: '',
+    element: '',
     next: null
 }
 ```
