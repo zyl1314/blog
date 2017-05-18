@@ -6,6 +6,7 @@
 #### - [模块加载器之CMD（二）](https://github.com/zyl1314/blog/blob/master/public/blog/%E6%A8%A1%E5%9D%97%E5%8A%A0%E8%BD%BD%E5%99%A8%E4%B9%8BCMD%EF%BC%88%E4%BA%8C%EF%BC%89.md)
 #### - [浅析模板函数的原理](https://github.com/zyl1314/blog/blob/master/public/blog/%E6%B5%85%E6%9E%90%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%A8%A1%E6%9D%BF%E5%87%BD%E6%95%B0%E7%9A%84%E5%8E%9F%E7%90%86.md)
 #### - [XSS与CSRF](https://github.com/zyl1314/blog/blob/master/public/blog/XSS%E5%92%8CCSRF.md)
+#### - [表单验证插件](https://github.com/zyl1314/blog/blob/master/public/blog/%E8%A1%A8%E5%8D%95%E9%AA%8C%E8%AF%81%E6%8F%92%E4%BB%B6.md)
 ## 备忘
 #### - [BAE](https://github.com/zyl1314/blog/blob/master/public/blog/BAE.md)
 ## 读书笔记
