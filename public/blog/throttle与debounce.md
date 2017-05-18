@@ -12,7 +12,7 @@ function debounce(time, action) {
     return function() {
         var args = [].slice.call(arguments),
             This = this
-        cleatTimeout(timer)
+        clearTimeout(timer)
         timer = setTimeout(function() {
             action.apply(This, args)
         }, time)
