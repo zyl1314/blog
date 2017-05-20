@@ -7,6 +7,8 @@
 #### - [浅析模板函数的原理](https://github.com/zyl1314/blog/blob/master/public/blog/%E6%B5%85%E6%9E%90%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%A8%A1%E6%9D%BF%E5%87%BD%E6%95%B0%E7%9A%84%E5%8E%9F%E7%90%86.md)
 #### - [XSS与CSRF](https://github.com/zyl1314/blog/blob/master/public/blog/XSS%E5%92%8CCSRF.md)
 #### - [表单验证插件](https://github.com/zyl1314/blog/blob/master/public/blog/%E8%A1%A8%E5%8D%95%E9%AA%8C%E8%AF%81%E6%8F%92%E4%BB%B6.md)
+#### - [如何处理异步](https://github.com/zyl1314/blog/blob/master/public/blog/%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E5%BC%82%E6%AD%A5.md)
+#### - [koa的中间件系统](https://github.com/zyl1314/blog/blob/master/public/blog/koa%E7%9A%84%E4%B8%AD%E9%97%B4%E4%BB%B6%E7%B3%BB%E7%BB%9F.md)
 ## 备忘
 #### - [BAE](https://github.com/zyl1314/blog/blob/master/public/blog/BAE.md)
 ## 读书笔记
