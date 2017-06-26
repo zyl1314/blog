@@ -10,14 +10,10 @@
 #### - [如何处理异步](https://github.com/zyl1314/blog/blob/master/public/blog/%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E5%BC%82%E6%AD%A5.md)
 #### - [koa的中间件系统](https://github.com/zyl1314/blog/blob/master/public/blog/koa%E7%9A%84%E4%B8%AD%E9%97%B4%E4%BB%B6%E7%B3%BB%E7%BB%9F.md)
 ## vue
-#### - [vue源码学习一（实现数据监听）]()
+#### - [vue源码学习一（实现数据监听）](https://github.com/zyl1314/blog/blob/master/public/blog/vue%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0%E4%B8%80%EF%BC%88%E7%AE%80%E5%8D%95%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%E5%8F%8A%E5%AE%9E%E7%8E%B0%E7%9B%91%E5%90%AC%E6%95%B0%E6%8D%AE%EF%BC%89.md)
 ## 备忘
 #### - [BAE](https://github.com/zyl1314/blog/blob/master/public/blog/BAE.md)
-<<<<<<< HEAD
 ## 算法与数据结构
-#### - [javascript数据结构与算法](https://github.com/zyl1314/blog/blob/master/public/blog/js%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95.md)
-#### - [javascript数据结构与算法实例]()
-=======
-## 读书笔记
-#### - [javascript数据结构与算法](https://github.com/zyl1314/blog/blob/master/public/blog/js%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95.md)
->>>>>>> 48c69408a21e87d6b5c35bf38f0c7d920705b611
+#### - [数据结构与算法](https://github.com/zyl1314/blog/blob/master/public/blog/js%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95.md)
+#### - [数据结构与算法练习](https://github.com/zyl1314/blog/blob/master/public/blog/javascript%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%AE%9E%E4%BE%8B.md)
+
