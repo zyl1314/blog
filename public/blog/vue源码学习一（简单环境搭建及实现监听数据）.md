@@ -24,8 +24,7 @@ module.exports = {
     watch: true,
     // 定义了入口文件
     entry: {
-        index: ['./src/index.js'],
-        example: ['./example/index.js']
+        index: ['./src/index.js']
     },
     // 定义了打包后输出的文件夹 以及文件的名字
     output: {
@@ -56,9 +55,7 @@ module.exports = {
 ```
 "scripts": {
     // 运行npm run build则自动执行webpack打包
-    "build": "webpack",
-    // dist文件下的文件发生改变浏览器会自动刷新，即我们打包后会自动刷新浏览器
-    "watch": "browser-sync start --server --files 'dist/*.*'"
+    "build": "webpack"
 }
 ```
 由于我们的关注点不在于以上，所以草草带过。
