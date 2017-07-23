@@ -81,4 +81,3 @@ function findNum(arr, sum) {
     }
 }
 ```
-3.
