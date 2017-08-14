@@ -12,7 +12,8 @@
 ## vue
 #### - [vue源码学习一（实现数据监听）](https://github.com/zyl1314/blog/blob/master/public/blog/vue%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0%E4%B8%80%EF%BC%88%E7%AE%80%E5%8D%95%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%E5%8F%8A%E5%AE%9E%E7%8E%B0%E7%9B%91%E5%90%AC%E6%95%B0%E6%8D%AE%EF%BC%89.md)
 #### - [vue源码学习二（简单的模板数据绑定）](https://github.com/zyl1314/blog/blob/master/public/blog/vue%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0%E4%BA%8C%EF%BC%88%E7%AE%80%E5%8D%95%E7%9A%84%E6%A8%A1%E6%9D%BF%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%EF%BC%89.md)
-#### - [vue源码学习三（计算属性）]()
+#### - [vue源码学习三（计算属性）](https://github.com/zyl1314/blog/blob/master/public/blog/vue%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0%E4%B8%89%EF%BC%88%E8%AE%A1%E7%AE%97%E5%B1%9E%E6%80%A7%EF%BC%89.md)
+#### - [vue源码学习四（条件指令）](https://github.com/zyl1314/blog/blob/master/public/blog/vue%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0%E5%9B%9B%EF%BC%88%E6%9D%A1%E4%BB%B6%E6%8C%87%E4%BB%A4%E7%9A%84%E5%AE%9E%E7%8E%B0%EF%BC%89.md)
 ## 备忘
 #### - [BAE](https://github.com/zyl1314/blog/blob/master/public/blog/BAE.md)
 ## 算法与数据结构
