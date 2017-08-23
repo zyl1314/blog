@@ -20,5 +20,5 @@
 #### - [数据结构与算法](https://github.com/zyl1314/blog/blob/master/public/blog/js%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95.md)
 #### - [数据结构与算法练习](https://github.com/zyl1314/blog/blob/master/public/blog/javascript%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%AE%9E%E4%BE%8B.md)
 ## 其他
-#### - [vue实践之抽离api]()
-
+#### - [vue实践之抽离api](https://github.com/zyl1314/blog/blob/master/public/blog/vue%E5%AE%9E%E8%B7%B5%E4%B9%8B%E6%8A%BD%E7%A6%BBapi.md)
+#### - [axios之拦截器 —— 关注需要关注的事](https://github.com/zyl1314/blog/blob/master/public/blog/axios之拦截器.md)
