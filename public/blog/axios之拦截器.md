@@ -1,6 +1,6 @@
 # axios之拦截器  
 
-axios是一个适用于浏览器和nodejs的http库，支持Promise  
+> axios是一个适用于浏览器和nodejs的http库，支持Promise 
 
 ## 用法
 ```
