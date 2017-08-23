@@ -2,7 +2,7 @@
 
 axios是一个适用于浏览器和nodejs的http库，支持Promise  
 
-##　用法
+## 用法
 ```
 // get
 axios.get('/user/name').then(() => {
