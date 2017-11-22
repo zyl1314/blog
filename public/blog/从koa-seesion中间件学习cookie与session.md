@@ -28,7 +28,7 @@ app.listen(3000);
 ```
 访问localhost:3000,打开控制台可以看到：
 
-![img](https://github.com/zyl1314/blog/raw/master/public/img/session/1.PNG)
+![img](https://github.com/zyl1314/blog/raw/master/public/img/session/1.PNG)  
 ![img](https://github.com/zyl1314/blog/raw/master/public/img/session/2.PNG)
 
 那么下次浏览器再访问localhost:3000的时候就会把这些cookie信息通过request的headers带给服务器。
@@ -361,8 +361,10 @@ const CONFIG = {
 
 ```
 第一次访问时
-![img](https://github.com/zyl1314/blog/raw/master/public/img/session/3.PNG)
-再次访问
+![img](https://github.com/zyl1314/blog/raw/master/public/img/session/3.PNG)  
+
+再次访问  
+
 ![img](https://github.com/zyl1314/blog/raw/master/public/img/session/4.PNG)
 
 _expire用来下次访问服务器时判断session是否已过期
@@ -410,7 +412,8 @@ class Session {
   }
 ```
 
-画一个简单的流程图看一下这整个逻辑时怎样的
+画一个简单的流程图看一下这整个逻辑时怎样的  
+
 ![img](https://github.com/zyl1314/blog/raw/master/public/img/session/5.PNG)
 
 通常情况下，把session保存在cookie有下面两个缺点：
