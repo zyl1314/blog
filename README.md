@@ -17,6 +17,7 @@
 ## koa
 #### - [koa原理浅析](https://github.com/zyl1314/blog/blob/master/public/blog/koa%E5%8E%9F%E7%90%86%E6%B5%85%E6%9E%90.md)
 #### - [从koa-session中间件源码学习cookie与session](https://github.com/zyl1314/blog/blob/master/public/blog/%E4%BB%8Ekoa-seesion%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%AD%A6%E4%B9%A0cookie%E4%B8%8Esession.md)
+#### - [从koa-static中间件学习搭建静态文件服务器](https://github.com/zyl1314/blog/blob/master/public/blog/%E4%BB%8Ekoa-static%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%AD%A6%E4%B9%A0%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E6%96%87%E4%BB%B6%E6%9C%8D%E5%8A%A1%E5%99%A8.md)
 ## 备忘
 #### - [BAE](https://github.com/zyl1314/blog/blob/master/public/blog/BAE.md)
 ## 算法与数据结构
