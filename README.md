@@ -11,6 +11,7 @@
 #### - [模拟koa1的中间件系统](https://github.com/zyl1314/blog/blob/master/public/blog/koa%E7%9A%84%E4%B8%AD%E9%97%B4%E4%BB%B6%E7%B3%BB%E7%BB%9F.md)
 ## vue
 #### - [vue@2.0源码学习---目录结构分析与准备工作](https://github.com/zyl1314/blog/issues/1)
+#### - [vue@2.0源码学习---从hello world学习vue的内部做了什么](https://github.com/zyl1314/blog/issues/5)
 ## koa
 #### - [koa原理浅析](https://github.com/zyl1314/blog/issues/2)
 #### - [从koa-session中间件源码学习cookie与session](https://github.com/zyl1314/blog/issues/3)
