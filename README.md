@@ -12,6 +12,7 @@
 ## vue
 #### - [vue@2.0源码学习---目录结构分析与准备工作](https://github.com/zyl1314/blog/issues/1)
 #### - [vue@2.0源码学习---从hello world学习vue的内部做了什么](https://github.com/zyl1314/blog/issues/5)
+#### - [vue@2.0源码学习---组件究竟是什么](https://github.com/zyl1314/blog/issues/6)
 ## koa
 #### - [koa原理浅析](https://github.com/zyl1314/blog/issues/2)
 #### - [从koa-session中间件源码学习cookie与session](https://github.com/zyl1314/blog/issues/3)
