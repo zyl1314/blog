@@ -1,6 +1,6 @@
 ## javascript
 #### - [流程控制之串行和并行](https://github.com/zyl1314/blog/issues/9)
-#### - [如何处理异步](https://github.com/zyl1314/blog/issues/10)#### - [如何处理异步](https://github.com/zyl1314/blog/issues/10)
+#### - [如何处理异步](https://github.com/zyl1314/blog/issues/10)
 #### - [snabbdom](https://github.com/zyl1314/blog/issues/11)
 ## vue
 #### - [vue@2.0源码学习---目录结构分析与准备工作](https://github.com/zyl1314/blog/issues/1)
